@@ -31,27 +31,6 @@ Separator lines for readability
 
 requests library (Install via pip install requests)
 
-🚀 Possible Improvements Add filters (e.g., date range, language)
 
-Save results to a CSV/PDF file
 
-Implement a GUI (Tkinter/Streamlit)
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
